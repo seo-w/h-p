@@ -954,7 +954,7 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 
   #slider{padding-top: 60px;}
 
-  .slider .slider_inner .txt1{font-size: 60px;}
+  .slider .slider_inner .txt1{font-size: 4em;}
 
   .slider .slider_inner .txt4{font-size: 14px;}
 
@@ -1024,7 +1024,7 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 
   #slider{padding-bottom: 30px;}
 
-  .slider .slider_inner .txt1{font-size: 40px; padding-bottom: 20px;}
+  .slider .slider_inner .txt1{font-size: 2em; padding-bottom: 20px;}
 
   .slider .slider_inner .txt2{display: block; padding-top: 10px;}
 
