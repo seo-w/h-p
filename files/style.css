@@ -1103,3 +1103,13 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 
 
 }
+@media (max-width: 1025px) {
+.parallax-bg{
+  background-size: cover !important;
+    background-position: right center!important;
+    background-attachment: initial !important;
+}
+
+
+
+}
