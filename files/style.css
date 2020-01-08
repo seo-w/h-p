@@ -295,7 +295,8 @@ background-image: url(../images/sand-outline-abstract-track-car-wheel.jpg);backg
   -o-animation-duration: 2.43s;
   animation-duration: 2.43s;
 }
-.circle4{left: 580px; top: 190px;
+.circle4{left: 500px;
+    top: 310px;
   -webkit-animation-delay: 0.21s;
   -moz-animation-delay: 0.21s;
   -o-animation-delay: 0.21s;
@@ -306,7 +307,8 @@ background-image: url(../images/sand-outline-abstract-track-car-wheel.jpg);backg
   -o-animation-duration: 3.13s;
   animation-duration: 3.13s;
 }
-.circle5{width: 150px; height: 150px;left: 890px; top: 200px;
+.circle5{width: 150px; height: 150px;left: 576px;
+    top: 368px;
   -webkit-animation-delay: 0.17s;
   -moz-animation-delay: 0.17s;
   -o-animation-delay: 0.17s;
@@ -362,7 +364,8 @@ background-image: url(../images/sand-outline-abstract-track-car-wheel.jpg);backg
   -o-animation-duration: 1.94s;
   animation-duration: 1.94s;
 }
-.circle10{width: 60px; height: 60px;left: 640px; top: 180px; background: #fff; border: 1px solid #03a9f4; opacity: 0.6; filter:alpha(opacity=60);
+.circle10{width: 60px; height: 60px;left: 560px;
+    top: 343px; background: #fff; border: 1px solid #03a9f4; opacity: 0.6; filter:alpha(opacity=60);
   -webkit-animation-delay: 0.18s;
   -moz-animation-delay: 0.18s;
   -o-animation-delay: 0.18s;
@@ -373,7 +376,8 @@ background-image: url(../images/sand-outline-abstract-track-car-wheel.jpg);backg
   -o-animation-duration: 1.84s;
   animation-duration: 1.84s;
 }
-.circle11{width: 55px; height: 55px;left: 980px; top: 235px; background: #fff; border: 1px solid #03a9f4; opacity: 0.6; filter:alpha(opacity=60);
+.circle11{width: 55px; height: 55px;left: 623px;
+    top: 536px; background: #fff; border: 1px solid #03a9f4; opacity: 0.6; filter:alpha(opacity=60);
   -webkit-animation-delay: 0.18s;
   -moz-animation-delay: 0.18s;
   -o-animation-delay: 0.18s;
