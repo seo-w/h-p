@@ -307,8 +307,8 @@ background-image: url(../images/sand-outline-abstract-track-car-wheel.jpg);backg
   -o-animation-duration: 3.13s;
   animation-duration: 3.13s;
 }
-.circle5{width: 150px; height: 150px;left: 576px;
-    top: 368px;
+.circle5{width: 150px; height: 150px;left: 493px;
+    top: 431px;
   -webkit-animation-delay: 0.17s;
   -moz-animation-delay: 0.17s;
   -o-animation-delay: 0.17s;
@@ -1116,4 +1116,43 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 
 
 
+}
+.bg-light{
+  background-color: #F8F9FA;
+}
+
+#services .accordion1 .ui-accordion-header {
+    color: #000;
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#services .accordion1 .ui-accordion-content {
+    
+    color: #080808;
+}
+#services .accordion1 ul {
+    padding-left: 0px;
+}
+#services .ul2 li a.specialaccordion{
+  padding: 12px 10px 15px 40px;
+}
+
+
+
+.ul2 .accordion1 .ui-accordion-header {
+    color: #000;
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.ul2 .accordion1 .ui-accordion-content {
+    
+    color: #080808;
+}
+.ul2 .accordion1 ul {
+    padding-left: 0px;
+}
+.ul2 .ul2 li a.specialaccordion{
+  padding: 12px 10px 15px 40px;
 }
